@@ -4,9 +4,11 @@
 
 
 #### Install modules:
--npm i
+- npm i
+or
+- npm install
 
 #### Boot with:
--node main.js
+- node main.js
 
 _Evanderson Vasconcelos_
