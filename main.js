@@ -84,33 +84,3 @@ const game = () =>{
 		
 	})
 }
-
-
-
-/*
-function jogarOuNao() {
-	setTimeout(function(){
-		rl.question('Ainda quer jogar?\n1.SIM\n2.NÃO\n', res3 => {
-			if(res3 === '1'){
-				game()
-			}else if(res3 === '2'){
-				return sair()
-			}
-		})
-	}, 1000)
-}
-*/
-
-/*
-function jogarOuNao() {
-  setTimeout(function(){ 
-  	console.log(
-	  	rl.question('Ainda quer jogar?\n1.SIM\n2.NÃO\n', res3 => {
-			if(res3 === '1'){
-				game()
-			}else if(res3 === '2'){
-				return sair()
-			}
-		})
-  	); }, 1000);
-}*/
