@@ -1,12 +1,12 @@
-#JOKENPÔ VIA TERMINAL
+# JOKENPÔ VIA TERMINAL
 
-##A simple game for beginners, make your version across of the my.
+## A simple game for beginners, make your version across of the my.
 
 
-####Install modules:
+#### Install modules:
 -npm i
 
-####Boot with:
+#### Boot with:
 -node main.js
 
 _Evanderson Vasconcelos_
