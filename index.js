@@ -75,22 +75,7 @@ function go() {
 		}else if(resUser === 'Pedra' && resCPU === 'Pedra'){
 			return empatar()
 		}
-/*
-		if(resUser === 'Papel' && resCPU === 'Pedra'){
-			return ganhar()
-		}else if(resUser === '2' && resCPU === 'Tesoura'){
-			return perder()
-		}else if(resUser === 'Papel' && resCPU === 'Papel'){
-			return empatar()
-		}
 
-		if(resUser === 'Tesoura' && resCPU === 'Papel'){
-			return ganhar()
-		}else if(resUser === 'Tesoura' && resCPU === 'Pedra'){
-			return perder()
-		}else if(resUser === 'Tesoura' && resCPU === 'Tesoura'){
-			return empatar()
-		}*/
 		
 	})
 
